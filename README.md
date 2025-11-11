@@ -1,39 +1,44 @@
-<h1 align="center">👋 Hi, I'm Sandhya</h1>
+
+<h1 align="center">👋 Hi, I'm Sandhya Bharath</h1>
+<h3 align="center">📊 MS in Data Analytics Engineering @ George Mason University</h3>
+
 <p align="center">
-  <strong>MS in Data Analytics Engineering @ George Mason University</strong><br>
-  Machine Learning • Statistical Modeling • SQL • Data Visualization
-</p>
+  <a href="https://www.linkedin.com/in/sandhya-bharath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:sandhyabharath1212@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email Badge"/>
 
 ---
 
 ### 🌟 About Me
-I’m passionate about transforming raw data into meaningful insights and building interpretable models that support decision-making.  
-My academic and project work at GMU reflect a strong foundation in **data analytics**, **machine learning**, and **database systems**.
+I’m Data Analytics Engineering graduate student at George Mason University and I'm passionate about turning raw data into smart decisions and dashboards that actually make sense .
+I have hands on experience on data visualization, process optimization, and predictive modeling. Skilled in Python, SQL, Power BI, and Excel, with a strong foundation in 
+statistical analysis and business problem-solving. 
 
 ---
 
-### 🔭 Featured Projects
-- **Obesity Risk Prediction** — *Python, scikit-learn, pipelines, SHAP*  
-  ➜ [Code](https://github.com/sand10hya/obesity-risk) · [Report](#)  
-  Used the NObeyesdad dataset to analyze lifestyle and behavioral factors influencing obesity levels through classification models and interpretability tools.
+## 🧰 Tech Stack
 
-- **Library Database System (CS 504)** — *SQL Server, ERD, advanced joins*  
-  ➜ [Code](https://github.com/sand10hya/library-db)  
-  Designed and implemented a normalized database schema with triggers, views, and queries to manage circulation and overdue records.
+| Category | Tools |
+|-----------|--------|
+| 💻 **Languages** | Python, R, SQL |
+| 🗃️ **Databases** | SQL Server, MySQL, PostgreSQL |
+| 📈 **Visualization** | Tableau, Power BI, Excel |
+| ☁️ **Cloud & Database** | AWS (S3, EC2), MySQL |
+| 🧩 **Tools** | Excel (Pivot Tables, VLOOKUP), Power Query, Jupyter Notebook |
 
-- **College Graduates Salary Analysis (AIT 580)** — *R, ggplot2, regression*  
-  ➜ [Code](https://github.com/sand10hya/college-grads)  
-  Performed statistical analysis and data visualization to study how gender, major category, and education affect wage outcomes.
+----
 
----
+### 🔭 Experience
+- **Operations Manager** — *DELHIVERY, India*    
+➜ Analyzed large-scale shipment and operations data using Excel and Power BI to identify bottlenecks and  inefficiencies, improving throughput by 25% and service levels by 20%.  
+➜ Led a Six Sigma–based process-improvement project using DMAIC methodology (RCA, FMEA, Control Charts) to identify root causes of missed shipments, achieving an 80% reduction in errors and 15% cost savings through  process redesign
 
-### 🧰 Tech Stack
-**Languages:** Python, R, SQL  
-**Python:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
-**R:** tidyverse, ggplot2  
-**Databases:** SQL Server, MySQL, PostgreSQL  
-**Visualization:** Tableau, Power BI, Excel  
-**Other:** Git, Docker, AWS (EC2, S3), Command Line
+- **Research Intern** — *NIT Trichy, India*  
+➜ Conducted malware behavior research using fuzzy hashing and variant detection to compare file similarities and detect hidden threats across binary datasets.  
+➜ Built grayscale image datasets from malware samples and applied Convolutional Neural Networks (CNNs) for automated classification, improving accuracy by 18% over baseline models.  
+➜ Implemented Python-based preprocessing and feature extraction to detect visual and structural anomalies in malicious files.   
 
 ---
 
@@ -50,5 +55,5 @@ My academic and project work at GMU reflect a strong foundation in **data analyt
 ---
 
 <p align="center">
-  💡 *Thanks for visiting my profile!* 💡
+  💡 *Thanks for visiting my profile!Have a good day* 💡
 </p>
